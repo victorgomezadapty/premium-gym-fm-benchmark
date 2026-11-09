@@ -1,0 +1,199 @@
+{
+  "context_log": [
+    {
+      "anchor": "2025-01-01",
+      "task": "churn_30d",
+      "context_rows": 2987,
+      "context_anchors": 34,
+      "max_context_anchor": "2024-12-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-01-01",
+      "task": "revenue_30d",
+      "context_rows": 2987,
+      "context_anchors": 34,
+      "max_context_anchor": "2024-12-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-01-01",
+      "task": "visits_30d",
+      "context_rows": 2987,
+      "context_anchors": 34,
+      "max_context_anchor": "2024-12-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-02-01",
+      "task": "churn_30d",
+      "context_rows": 3007,
+      "context_anchors": 35,
+      "max_context_anchor": "2025-01-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-02-01",
+      "task": "revenue_30d",
+      "context_rows": 3007,
+      "context_anchors": 35,
+      "max_context_anchor": "2025-01-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-02-01",
+      "task": "visits_30d",
+      "context_rows": 3007,
+      "context_anchors": 35,
+      "max_context_anchor": "2025-01-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-03-01",
+      "task": "churn_30d",
+      "context_rows": 3007,
+      "context_anchors": 35,
+      "max_context_anchor": "2025-01-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-03-01",
+      "task": "revenue_30d",
+      "context_rows": 3007,
+      "context_anchors": 35,
+      "max_context_anchor": "2025-01-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-03-01",
+      "task": "visits_30d",
+      "context_rows": 3007,
+      "context_anchors": 35,
+      "max_context_anchor": "2025-01-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-04-01",
+      "task": "churn_30d",
+      "context_rows": 2997,
+      "context_anchors": 37,
+      "max_context_anchor": "2025-03-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-04-01",
+      "task": "revenue_30d",
+      "context_rows": 2997,
+      "context_anchors": 37,
+      "max_context_anchor": "2025-03-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-04-01",
+      "task": "visits_30d",
+      "context_rows": 2997,
+      "context_anchors": 37,
+      "max_context_anchor": "2025-03-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-05-01",
+      "task": "churn_30d",
+      "context_rows": 2997,
+      "context_anchors": 37,
+      "max_context_anchor": "2025-03-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-05-01",
+      "task": "revenue_30d",
+      "context_rows": 2997,
+      "context_anchors": 37,
+      "max_context_anchor": "2025-03-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-05-01",
+      "task": "visits_30d",
+      "context_rows": 2997,
+      "context_anchors": 37,
+      "max_context_anchor": "2025-03-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-06-01",
+      "task": "churn_30d",
+      "context_rows": 3003,
+      "context_anchors": 39,
+      "max_context_anchor": "2025-05-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-06-01",
+      "task": "revenue_30d",
+      "context_rows": 3003,
+      "context_anchors": 39,
+      "max_context_anchor": "2025-05-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-06-01",
+      "task": "visits_30d",
+      "context_rows": 3003,
+      "context_anchors": 39,
+      "max_context_anchor": "2025-05-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-07-01",
+      "task": "churn_30d",
+      "context_rows": 3003,
+      "context_anchors": 39,
+      "max_context_anchor": "2025-05-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-07-01",
+      "task": "revenue_30d",
+      "context_rows": 3003,
+      "context_anchors": 39,
+      "max_context_anchor": "2025-05-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-07-01",
+      "task": "visits_30d",
+      "context_rows": 3003,
+      "context_anchors": 39,
+      "max_context_anchor": "2025-05-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-08-01",
+      "task": "churn_30d",
+      "context_rows": 2993,
+      "context_anchors": 41,
+      "max_context_anchor": "2025-07-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-08-01",
+      "task": "revenue_30d",
+      "context_rows": 2993,
+      "context_anchors": 41,
+      "max_context_anchor": "2025-07-01",
+      "label_agreement": 1.0
+    },
+    {
+      "anchor": "2025-08-01",
+      "task": "visits_30d",
+      "context_rows": 2993,
+      "context_anchors": 41,
+      "max_context_anchor": "2025-07-01",
+      "label_agreement": 1.0
+    }
+  ],
+  "failure": null,
+  "stat": "median",
+  "ctx_total": 3000
+}

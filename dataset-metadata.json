@@ -1,0 +1,17 @@
+{
+  "title": "Fictional Premium Gym Relational Dataset",
+  "subtitle": "Invented data: visits, payments, contracts and coaching for a gym that does not exist",
+  "id": "vctorandrsgmezlpez/fictional-premium-gym-relational-dataset",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "business",
+    "tabular",
+    "classification",
+    "regression"
+  ],
+  "description": "See kaggle_dataset.md."
+}
